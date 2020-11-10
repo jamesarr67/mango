@@ -1,5 +1,7 @@
 # Mango
 
+https://shankardevy.com/phoenix-inside-out-mpf/#chapter-3
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
